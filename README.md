@@ -4,6 +4,6 @@ This repository has been created with the aim to upload the two models obtained 
 
 Such models can be loaded in Google Colab this way: 
 
-model = torch.load(/.../model.pth')
+model = torch.load('/.../model.pth')
 
 Hope you liked the thesis.
