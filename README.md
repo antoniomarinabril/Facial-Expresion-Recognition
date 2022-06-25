@@ -1,4 +1,4 @@
-# Facial-Expresion-Recognition
+# Facial-Expresion-Recognition on AffectNet
 
 This repository has been created with the aim to upload the two models obtained in the final thesis.
 
