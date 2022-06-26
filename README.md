@@ -6,4 +6,4 @@ Such models can be loaded in Google Colab this way:
 
 model = torch.load('/.../model.pth')
 
-Hope you found it interesting.
+Hope you found it interesting reading.
